@@ -46,3 +46,5 @@ go to [Book.cs](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.19/blob/m
 go to [CustomFormatProvider.cs](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.19/blob/master/StringExtension/CustomFormatProvider.cs)
 
 :heavy_check_mark: 4. (deadline - 02.04.2019, 24.00) Представить решение задачи Day 4 - 26.03.2019. Task 3 в виде дополнительной возможности форматного вывода вещественного числа. Разработать модульные тесты.
+
+go to [DoubleProvider.cs](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.19/blob/master/StringExtension/DoubleProvider.cs)
