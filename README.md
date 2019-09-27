@@ -27,7 +27,7 @@
 
 Проверить возможность работы разработанного метода с большими строками и большим количеством итераций (проект StringExtensionWithFiles), замерить время счета.
 
-go to [StringComverter.cs](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.19/blob/master/StringExtension/StringConverter.cs)
+go to [StringConverter.cs](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.19/blob/master/StringExtension/StringConverter.cs)
 
 :heavy_check_mark: 2. (deadline - 03.04.2019, 24.00) Для объектов класса Book, у которого есть свойства Title, Author, Year, PublishingHous, Edition, Pages и Price (за основу можно взять класс, разработанный ранее) реализовать возможность строкового представления различного вида. Например, для объекта со значениями Title = "C# in Depth", Author = "Jon Skeet", Year = 2019, PublishingHous = "Manning", Edition = 4, Pages = 900, Price = 40$. могут быть следующие варианты:
 
