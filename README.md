@@ -38,6 +38,7 @@ go to [StringConverter.cs](https://github.com/UltramarineDev/NET1.S.2019.Sokolov
 * Book record: C# in Depth и т.д.
 
 Разработать модульные тесты.
+
 go to [Book.cs](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.19/blob/master/StringExtension/Book.cs)
 
 :heavy_check_mark: 3. (deadline - 03.04.2019, 24.00) Не изменяя класс Book, добавить для объектов данного класса дополнительную (любую не существующую у класса изначально) возможность форматирования, не предусмотренную классом. Разработать модульные тесты.
