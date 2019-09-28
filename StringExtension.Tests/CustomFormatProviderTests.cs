@@ -21,7 +21,7 @@ namespace StringExtension.Tests
 
             string expected = "C# in Depth, 2019";
             IFormatProvider te = new CustomFormatProvider();
-            string actual = string.Format(te, "{0: TE}", book);
+            string actual = string.Format(te, "{0:TE}", book);
             Assert.AreEqual(expected, actual);
         }
     }
